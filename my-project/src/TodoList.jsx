@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 function ToDoList() {
-    const [tasks, setTasks] = useState(["Hi Hello","Im fine"]);
+    const [tasks, setTasks] = useState(["Hello All","How is your day"]);
     const [newTask, setNewTask] = useState("");
 
     function handleInputChange(event) {
