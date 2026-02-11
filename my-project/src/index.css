@@ -88,3 +88,6 @@ li {
     transition: background-color 0.5 ease;
     margin-left: 8px;
 }
+li {
+    gap: 10px;
+}
